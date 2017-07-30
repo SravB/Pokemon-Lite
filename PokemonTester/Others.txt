@@ -1,0 +1,27 @@
+Vulpix
+Ninetales
+Growlithe
+Arcanine
+Poliwag
+Poliwhirl
+Poliwrath
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Geodude
+Graveler
+Golem
+Gastly
+Haunter
+Gengar
+Dratini		None
+Dragonair	Dratini
+Dragonite	Dragonair
+Pidgey		Flying		0
+Pidgeotto	Flying		1
+Pidgeot		Flying		2
+Pikachu		Electric	0
+Raichu		Electric	1
